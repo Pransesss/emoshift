@@ -1,0 +1,19 @@
+Bading|419|5|Fruits
+Frances|78|4|Emotion
+Ces|105|4|Emotion
+Pransess|4|3|Foods
+Maoi|20|3|Fruits
+Spongebob|21|3|Emotion
+Jabee|29|3|Foods
+Patrick|31|3|Moon Phases
+Emong|32|3|Fruits
+Pransess|41|3|Foods
+Ces|42|3|Moon Phases
+Ces|45|3|Foods
+Bato|52|3|Moon Phases
+Max|56|3|Moon Phases
+Frances|58|3|Foods
+Anonymous|71|3|Animals
+Cazii|81|3|Animals
+Anonymous|86|3|Animals
+Anonymous|95|3|Animals
